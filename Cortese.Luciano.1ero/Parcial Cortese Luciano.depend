@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1557148422 source:d:\cortese luciano\parcial\parcial cortese luciano\input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
+1557154927 
+
+1557148422 d:\cortese luciano\parcial\parcial cortese luciano\input.h
+
+1557154927 source:d:\cortese luciano\parcial\parcial cortese luciano\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"input.h"
+
+1557165257 source:/home/lucho/Escritorio/Cortese.Luciano.1ero/input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
+1557170297 /home/lucho/Escritorio/Cortese.Luciano.1ero/input.h
+
+1557293810 source:/home/lucho/Escritorio/Cortese.Luciano.1ero/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+	"socios.h"
+
+1557170297 /home/lucho/Escritorio/Cortese.Luciano.1ero/parcial.h
+
+1557165999 source:/home/lucho/Escritorio/Cortese.Luciano.1ero/parcial.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+	"parcial.h"
+
+1557293832 /home/lucho/Escritorio/Cortese.Luciano.1ero/socios.h
+	"socios.h"
+
+1557293650 source:/home/lucho/Escritorio/Cortese.Luciano.1ero/socios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+	"socios.h"
+
